@@ -9,7 +9,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk reponun ReadMe dosyasi ve icinde
 
   
 
-![Proje secrenshot](https://github.com/Huseyingulecen/kodluyoruzilkrepo/blob/main/images/ProjeSecrenshot.png))
+![Proje secrenshot](https://github.com/Huseyingulecen/kodluyoruzilkrepo/blob/main/images/ProjeSecrenshot.png)
   
 
 ## Installation
